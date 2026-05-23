@@ -1,0 +1,6 @@
+{
+  "name": "ApexStore Ecommerce",
+  "description": "A full-stack, production-ready ecommerce platform featuring a comprehensive customer shopping experience and a robust admin management dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
